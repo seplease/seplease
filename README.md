@@ -5,4 +5,4 @@ Computer Science Student at Dongduk Women's University
 Things
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/seplease/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seplease)](https://github.com/seplease/github-readme-stats)
