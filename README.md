@@ -1,6 +1,6 @@
-### Hi, I'm Sieun Kim 👋
+## Hi, I'm Sieun Kim 👋
 
-Computer Science Student at Dongduk Women's University
+<I>Computer Science Student at Dongduk Women's University</I>
 
 ## TECH STACK
 
