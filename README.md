@@ -3,7 +3,7 @@
 
 <div align="left">
 
-## Hi, I'm Yerim Song 👋
+## Hi, I'm Sieun Kim 👋
 Computer Science Student at <a href="https://www.dongduk.ac.kr/kor/main.do">Dongduk Women's University</a>
 <br>
 <!--
