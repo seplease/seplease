@@ -1,5 +1,5 @@
 <div align="center">
-## Hi, I'm Sieun Kim
+<h2> Hi, I'm Sieun Kim </h2>
 Computer Science Student | Graduating Feb 2025
 Passionate about backend development, cloud computing.
 </div>
