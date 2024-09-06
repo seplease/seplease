@@ -1,6 +1,7 @@
 ## Hi, I'm Sieun Kim
 Graduating Feb 2025
 Passionate about backend development, cloud computing.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNahee-Park&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile-views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## About me
 - Dongduk Women's Univ., Seoul, Korea (Computer Science)
