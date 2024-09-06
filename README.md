@@ -4,12 +4,14 @@ Computer Science Student | Graduating Feb 2025<br>
 Passionate about backend development, cloud computing.
 </div>
 
+- - -
+
 ## About me
-- Dongduk Women's Univ., Seoul, Korea (Computer Science)
+- Dongduk Women's University (majoring in Computer Science), Seoul, Korea
 - contact: <seplease@naver.com>
 - velog : [@seplease](https://velog.io/@seplease)
 
-## Experiences
+## Experiences 🖥️
 #### 2024
 
 - 2024.07 ~ Present: AWS Cloud Club 2nd Member
