@@ -14,7 +14,7 @@ Passionate about backend development, cloud computing.
 ## Experiences 🖥️
 #### 2024
 
-- 2024.07 ~ Present: AWS Cloud Club 2nd Member
+- 2024.07 ~ 2025.01: AWS Cloud Club 2nd Member
 
 #### 2023
 
