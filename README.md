@@ -1,6 +1,6 @@
 <div align="center">
 <h2> Hi, I'm Sieun Kim </h2>
-a student studying computer science. | Graduating Feb 2025<br>
+a student studying computer science. | Graduating Feb 2026<br>
 Passionate about backend development, cloud computing.
 </div>
 
