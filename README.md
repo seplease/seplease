@@ -9,7 +9,6 @@ Passionate about backend development, cloud computing.
 ## About me 🌱
 - Dongduk Women's University (majoring in Computer Science), Seoul, Korea
 - contact: <seplease@naver.com>
-- velog : [@seplease](https://velog.io/@seplease)
 
 ## Experiences 🖥️
 #### 2024
