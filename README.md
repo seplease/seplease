@@ -6,7 +6,7 @@ My journey began with a curiosity for how things work under the hood—from root
 
 I enjoy working on projects that matter—like improving access for transportation-vulnerable users, optimizing feed systems under high traffic, and leading green-tech platforms with real-time challenge tracking. Whether it’s collaborating on cloud-native architectures or fine-tuning authentication flows, I love diving deep into problems and finding elegant, efficient solutions.
 
-Let’s build something meaningful together. 🛠️
+Let’s build something meaningful together.
 
 ---
 
