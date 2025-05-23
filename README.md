@@ -4,7 +4,7 @@ I'm **Sieun Kim**, a backend developer passionate about building scalable system
 
 My journey began with a curiosity for how things work under the hood—from rooting phones in middle school to exploring network protocols and cloud infrastructure. Now, I’m on a mission to build **impactful and accessible services** that blend technical depth with thoughtful design.
 
-I enjoy working on projects that matter—like improving access for transportation-vulnerable users, optimizing feed systems under high traffic, and leading green-tech platforms with real-time challenge tracking. Whether it’s collaborating on cloud-native architectures or fine-tuning authentication flows, I love diving deep into problems and finding elegant, efficient solutions. 🚀
+I enjoy working on projects that matter—like improving access for transportation-vulnerable users, optimizing feed systems under high traffic, and leading green-tech platforms with real-time challenge tracking. Whether it’s collaborating on cloud-native architectures or fine-tuning authentication flows, I love diving deep into problems and finding elegant, efficient solutions.
 
 Let’s build something meaningful together. 🛠️
 
@@ -12,9 +12,9 @@ Let’s build something meaningful together. 🛠️
 
 ## ✨ My Values
 
-- 💡 **Build with purpose**: I strive to create services that are not only functional but also meaningful for users.
-- ⚙️ **Structure with care**: I value readability, maintainability, and thoughtful design in both code and system architecture.
-- 🤝 **Lead with empathy**: Clear communication and mutual respect are at the core of every successful team.
+- **Build with purpose**: I strive to create services that are not only functional but also meaningful for users.
+- **Structure with care**: I value readability, maintainability, and thoughtful design in both code and system architecture.
+- **Lead with empathy**: Clear communication and mutual respect are at the core of every successful team.
 
 ---
 
