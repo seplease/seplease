@@ -28,7 +28,7 @@ Whether I'm scaling a service for 10,000+ users or guiding teammates through tec
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
 ### Regularly used
 
