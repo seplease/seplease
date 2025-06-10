@@ -32,19 +32,21 @@ Whether I'm scaling a service for 10,000+ users or guiding teammates through tec
 
 ### Regularly used
 
-- Java 21, Spring Boot 3.4.3
-- MySQL 8.0.41, Redis (with Bloom Filter)
+- Java 21, Spring Boot 3
+- MySQL 8, Redis (with Bloom Filter)
 - Spring Security, JWT
-- Docker, AWS (EC2, RDS, S3), GitHub Actions
+- Docker, AWS, GCP, GitHub Actions
 - JUnit5, Mockito, JaCoCo, Gradle
 
 ---
 
 ## 🌱 Currently Working On
 
-- Building **Leafresh**, a real-time eco-challenge platform (Backend Lead)
-- Writing coverage-driven tests with JUnit + JaCoCo
-- Studying: Redis-based caching (Time Deals, Posts), SQS-based decoupled event flows, and Redis Pub/Sub for multi-server real-time messaging
+- Scaling Leafresh, a real-time eco-challenge platform (Backend Lead)
+- Writing API integration and edge-case tests with JUnit + JaCoCo
+- Documenting domain tech specs and async architecture (event-driven, SSE)
+- Exploring Redis caching strategies (Time Deals, Posts) and SQS-based decoupling
+- Managing these tasks in parallel to ensure seamless QA and architectural clarity
 
 ---
 
